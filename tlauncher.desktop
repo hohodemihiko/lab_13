@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=TLauncher
-Comment=Run client for the games
-Exec=/usr/games/tlauncher/lib/jvm/jre/bin/java -Dfile.encoding=UTF8 -jar /usr/games/tlauncher/starter-core.jar
-Icon=tlauncher.png
-Terminal=false
-Path=/usr/games/tlauncher
-Type=Application
